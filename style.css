@@ -1,0 +1,23 @@
+body {
+	background-color:rgb(192, 59, 245)	
+}
+
+#banner {
+	width: 98%;
+}
+
+h1 {
+	text-align: center;	
+}
+
+p {
+	text-align: center;	
+}
+
+#missao {
+	font-size: 25px
+}
+
+em strong {
+	color: #23ecec;
+}
